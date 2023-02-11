@@ -1,18 +1,20 @@
-
-ul{
-   list-style-type:circle;
-    position: fixed;
+body{
+    background-color: rgb(228, 234, 193);
 }
-ol{
-   text-decoration-style:double
-   
-}  
-
+h2{
+    color:blue;
+}
     
 a{
     font-size: 35px;
     text-decoration-color: rgb(17, 223, 89);
 }
-body{
-    text-align: center;
+
+
+ul{
+    list-style-type:circle;
 }
+ ol{
+    text-decoration:solid;
+    
+ }  
