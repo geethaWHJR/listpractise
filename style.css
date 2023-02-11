@@ -1,0 +1,18 @@
+
+ul{
+   list-style-type:circle;
+    position: fixed;
+}
+ol{
+   text-decoration-style:double
+   
+}  
+
+    
+a{
+    font-size: 35px;
+    text-decoration-color: rgb(17, 223, 89);
+}
+body{
+    text-align: center;
+}
